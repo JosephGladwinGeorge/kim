@@ -1,2 +1,2 @@
 # kim
-Text editor in go
+Text editor in rust
